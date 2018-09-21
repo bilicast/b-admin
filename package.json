@@ -1,0 +1,21 @@
+{
+  "name": "review-admin-frontend",
+  "version": "1.0.0",
+  "description": "review admin frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "review"
+  ],
+  "author": "review",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "morgan": "^1.8.1",
+    "request": "^2.79.0",
+    "util": "^0.10.3"
+  }
+}
